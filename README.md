@@ -5,4 +5,4 @@
 <li><b>Link:</b> Provides in-app navigation links, used in Navbar for main pages and within Skills for sub-sections.</li>
 <li>Language / tool : HTML, CSS, React</li>
 <br/>
-<img src="bookstore">
+<img src="bookstore.gif">
